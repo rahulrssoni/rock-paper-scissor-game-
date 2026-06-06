@@ -21,3 +21,6 @@ Rock-Paper-Scissors/
 │
 ├── rock_paper_scissors.py
 └── README.md
+
+
+AUTHOR - Rahul Soni
